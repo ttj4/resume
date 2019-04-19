@@ -1,0 +1,74 @@
+html, body {
+  margin: 5px;
+  padding: 0;
+}
+
+.name {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 40px;
+  text-align: left;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.personal {
+  margin-left: 0;
+  font-weight: bold;
+}
+
+.toright {
+    float: right;
+  text-align: right;
+
+}
+
+.star {
+  width: 32px;
+  height: 32px;
+  margin-left: 10px;
+  margin-top: -3px;
+}
+
+hr {
+    height: 0px;
+    border: none;
+    border-top: 1.5px solid black;
+    margin-top: 1.5px;
+}
+.aligner {
+  margin: 0;
+  padding-left: 10px;
+}
+
+.test {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.badge-danger {
+  background-color: red;
+}
+.headings {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 30px;
+}
+
+.desc {
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.company {
+  font-weight: bold;
+  text-align: right;
+  display: block;
+}
+
+.designation {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+a {
+  color: black;
+}
